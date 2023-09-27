@@ -1,0 +1,72 @@
+Sample Outputs:
+
+Southern States: 
+Found a solution after  2  iterations
+Your result:
+Fitness Rating:  17
+North Carolina :  Green
+South Carolina :  Yellow
+Virginia :  Red
+Tennessee :  Yellow
+Kentucky :  Green
+West Virginia :  Blue
+Georgia :  Blue
+Alabama :  Red
+Mississippi :  Blue
+Florida :  Yellow
+
+All States:
+Found a solution after  2510  iterations
+Your result:
+Fitness Rating:  223
+AK :  Red
+AL :  Blue
+AR :  Green
+AZ :  Blue
+CA :  Red
+CO :  Red
+CT :  Yellow
+DC :  Green
+DE :  Yellow
+FL :  Green
+GA :  Red
+HI :  Yellow
+IA :  Green
+ID :  Red
+IL :  Yellow
+IN :  Red
+KS :  Green
+KY :  Green
+LA :  Blue
+MA :  Red
+MD :  Blue
+ME :  Red
+MI :  Green
+MN :  Yellow
+MO :  Blue
+MS :  Red
+MT :  Yellow
+NC :  Green
+ND :  Red
+NE :  Yellow
+NH :  Blue
+NJ :  Green
+NM :  Green
+NV :  Green
+NY :  Blue
+OH :  Blue
+OK :  Yellow
+OR :  Blue
+PA :  Red
+RI :  Blue
+SC :  Yellow
+SD :  Blue
+TN :  Yellow
+TX :  Red
+UT :  Yellow
+VA :  Red
+VT :  Green
+WA :  Yellow
+WI :  Red
+WV :  Yellow
+WY :  Green

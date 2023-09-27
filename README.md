@@ -3,9 +3,12 @@
 # Requirements
     - Matplotlib
         - pip install matplotlib
-    - Networkx
+    - Networkx (Graph Visualization)
         -pip install networkx
 # Running
     - Run main.py
     - Input 1, instant output of the southern states
     - Input 2, approximately 3 minute wait time for entire United States
+# Output
+   ![My Image](imgs/us10-output.png)
+   ![My Image](imgs/us51-output.png)

@@ -385,7 +385,7 @@ def south():
 def all():
     map = Map()
     init51(map)
-    populationSize = 500 # TODO find reasonable value
+    populationSize = 275 # TODO find reasonable value
     population = Population(map, populationSize)
 
     maxIterations = 5000 # TODO find reasonable value
